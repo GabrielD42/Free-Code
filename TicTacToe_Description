@@ -1,0 +1,4 @@
+You can run the Game in a Terminal. There you can enter input from 1A, 1B, 1C, 2A... 
+If thers a wrong input the Game will let you know.
+If you want to end the Game just tipe "end"
+If theres a Winner or there aren't any fields left, the Game will end.
